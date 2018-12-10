@@ -1,0 +1,752 @@
+,treatment,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,coworkers,supervisor,mental_vs_physical,obs_consequence
+0,Yes,Yes,Not sure,No,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+1,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+4,No,Yes,No,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+5,No,Yes,Not sure,No,Don't know,Don't know,Don't know,No,Yes,Yes,Don't know,No
+6,Yes,No,No,No,No,No,Somewhat difficult,Maybe,Some of them,No,Don't know,No
+8,Yes,Yes,Yes,No,No,No,Very difficult,Maybe,Yes,Yes,No,No
+10,Yes,Don't know,No,No,No,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+12,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,Yes,No,Yes
+13,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Yes,Yes,Don't know,No
+15,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,Yes,Some of them,Don't know,No
+17,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+18,No,Yes,Not sure,Yes,Don't know,Yes,Very easy,No,Yes,Yes,Yes,Yes
+20,Yes,Yes,Yes,No,No,No,Somewhat difficult,Maybe,Some of them,Some of them,No,No
+21,No,No,No,No,No,Yes,Somewhat difficult,No,Some of them,Some of them,Yes,No
+22,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+23,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+24,Yes,Yes,Not sure,Don't know,Yes,Yes,Don't know,No,Yes,Yes,Don't know,No
+25,Yes,Yes,Yes,No,Don't know,No,Very easy,Yes,Some of them,Yes,No,No
+26,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+27,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,No,Yes,Yes,Yes,No
+28,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,Some of them,No,No,No
+31,No,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,No,No,Yes
+33,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Some of them,Don't know,No
+34,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,Yes,No
+35,Yes,No,Yes,No,No,Don't know,Very easy,No,Yes,Yes,Don't know,No
+38,No,Yes,Yes,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+39,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,Yes,No
+41,No,Yes,Not sure,Don't know,Yes,Don't know,Somewhat difficult,Yes,Some of them,No,Don't know,No
+44,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,No,Don't know,No
+45,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+47,No,No,No,No,No,Don't know,Don't know,No,Yes,Yes,Don't know,No
+49,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+50,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,Don't know,No
+51,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+52,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+53,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+55,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,Don't know,No
+56,No,Don't know,No,No,No,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+57,Yes,Don't know,No,No,No,Don't know,Don't know,No,Some of them,Yes,No,No
+58,No,No,No,No,No,Yes,Somewhat easy,No,Some of them,Yes,Don't know,No
+60,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Some of them,No,Don't know,Yes
+65,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Some of them,No,No,Yes
+67,No,Yes,No,Don't know,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+68,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+69,No,No,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+72,No,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,Yes,Yes,No,No
+74,No,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+76,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Yes,Yes,Yes,No
+77,No,No,No,No,No,Yes,Somewhat difficult,No,Yes,Yes,Yes,No
+78,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Some of them,No,No,No
+80,No,Yes,Yes,No,Yes,Don't know,Don't know,No,Yes,Some of them,Yes,No
+83,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Yes,Yes,No
+84,No,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No
+85,No,Don't know,Not sure,No,No,Don't know,Don't know,No,Some of them,Yes,No,No
+87,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+88,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,Yes
+89,No,Don't know,No,No,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+90,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+91,Yes,No,Yes,No,No,Yes,Very difficult,No,Yes,Yes,No,No
+92,No,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,Don't know,No
+95,No,Don't know,No,No,Don't know,Don't know,Don't know,No,Yes,Yes,No,No
+96,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Don't know,No
+98,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,No,No
+99,Yes,No,Yes,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes,No
+101,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+102,No,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,Some of them,Yes,Don't know,No
+103,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+104,No,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,No,Some of them,Yes,Don't know,No
+105,No,Yes,Not sure,No,No,Yes,Somewhat easy,No,Some of them,Yes,Don't know,No
+106,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,Some of them,Yes,No,No
+108,No,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,Don't know,No
+109,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Yes,Yes,No
+110,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Yes,No,No,No,No
+111,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Yes,No
+112,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,Yes,No
+113,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+114,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+118,Yes,No,No,No,No,Yes,Very easy,No,Some of them,No,Don't know,No
+119,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+120,No,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,No,Don't know,No
+121,No,Don't know,No,No,No,Don't know,Very easy,No,Some of them,Yes,Don't know,No
+122,Yes,Don't know,No,Don't know,Don't know,Yes,Very easy,No,Yes,Yes,Yes,No
+123,No,Yes,No,No,No,Yes,Don't know,Maybe,No,No,Don't know,No
+125,No,Yes,No,Yes,Yes,Yes,Don't know,Yes,Some of them,No,Don't know,No
+127,Yes,Yes,Yes,No,Yes,Yes,Don't know,Yes,No,Yes,Don't know,No
+130,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,Yes,Some of them,No,No
+131,No,No,Yes,No,No,Don't know,Very difficult,Maybe,Yes,Some of them,Don't know,No
+132,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Yes,Yes,Don't know,No
+137,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,Yes,Yes,Don't know,No
+138,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Don't know,No
+140,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+142,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+143,No,Yes,No,Don't know,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+144,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+145,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Some of them,Yes,Don't know,No
+147,No,No,No,No,No,No,Somewhat easy,Yes,No,No,No,No
+149,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+151,No,Don't know,Not sure,No,No,Don't know,Very easy,No,Some of them,Some of them,No,No
+153,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+155,Yes,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,No,No
+156,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Don't know,No
+157,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Some of them,Yes,No,No
+158,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Yes,Don't know,Yes
+159,Yes,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,Some of them,No,Don't know,Yes
+161,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+162,No,Yes,No,No,Yes,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+163,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+164,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,Some of them,Yes,Yes,No
+166,No,No,No,No,No,Don't know,Very easy,Maybe,Some of them,Some of them,Don't know,No
+167,No,No,Yes,No,No,Don't know,Very difficult,Maybe,Yes,Yes,No,No
+173,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Yes,No
+175,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+177,Yes,Yes,Not sure,Don't know,Don't know,Yes,Very easy,No,Yes,Yes,Yes,Yes
+178,Yes,Yes,No,No,No,Yes,Somewhat difficult,No,Yes,Yes,Yes,No
+179,No,Don't know,No,No,No,Don't know,Very easy,No,Yes,Yes,Don't know,No
+183,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+184,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,No,No,No,No
+185,No,Yes,No,No,No,Don't know,Don't know,Yes,Some of them,No,No,No
+189,Yes,Yes,Not sure,Don't know,No,Yes,Somewhat easy,Maybe,No,No,Don't know,No
+191,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,No,No
+193,Yes,No,No,No,No,Yes,Don't know,No,Some of them,Yes,Don't know,No
+196,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+197,No,Yes,No,No,No,Yes,Somewhat easy,No,Some of them,Yes,No,No
+198,No,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Yes,No
+200,Yes,Yes,No,No,No,Don't know,Very easy,No,Some of them,Some of them,Yes,No
+201,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+202,Yes,No,Not sure,No,No,Don't know,Very difficult,Maybe,Some of them,Some of them,Don't know,No
+207,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Yes,Yes,Don't know,No
+208,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+210,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+213,Yes,Don't know,No,No,No,No,Don't know,Yes,Some of them,Some of them,No,Yes
+214,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,Yes,Yes,Yes,No
+215,Yes,No,No,Don't know,Don't know,Don't know,Very difficult,No,Some of them,No,Don't know,No
+218,Yes,Yes,No,No,Don't know,Don't know,Somewhat difficult,Maybe,Some of them,No,Don't know,No
+219,No,Yes,Not sure,No,No,Don't know,Very easy,Yes,No,Some of them,Don't know,No
+220,No,Yes,No,No,No,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+222,No,Don't know,No,No,No,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+223,Yes,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No
+224,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No
+225,No,Don't know,No,Don't know,No,Yes,Very easy,No,Yes,Yes,Yes,No
+226,No,No,Yes,No,No,Don't know,Very difficult,No,Some of them,Yes,Yes,No
+228,No,Yes,Not sure,No,Don't know,Don't know,Very easy,Maybe,Some of them,No,Yes,No
+230,Yes,Yes,No,No,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,Yes
+231,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+233,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+238,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Yes,No
+241,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,No,Yes
+242,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Don't know,No
+244,No,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+245,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,No,No,No,Yes
+246,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+248,Yes,No,No,No,No,Don't know,Don't know,Maybe,Yes,Yes,Don't know,No
+249,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,Some of them,No,Don't know,No
+250,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,Maybe,Some of them,Some of them,Yes,No
+251,No,Yes,No,No,Don't know,Yes,Somewhat easy,No,Some of them,Yes,Yes,Yes
+252,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,Some of them,Yes,Yes,No
+254,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,Yes,Yes,Don't know,No
+257,No,No,Yes,No,Yes,Don't know,Somewhat easy,No,Some of them,Yes,Yes,No
+260,Yes,Yes,No,No,No,Yes,Don't know,Maybe,Yes,No,Don't know,No
+262,Yes,Yes,Yes,No,Yes,Yes,Don't know,No,Yes,Yes,Yes,No
+265,No,No,Yes,No,Don't know,Don't know,Very easy,No,Some of them,Yes,Don't know,No
+266,Yes,Yes,Yes,Don't know,No,Don't know,Very easy,No,Yes,Yes,Yes,No
+268,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,Some of them,Don't know,No
+269,No,No,No,No,No,Don't know,Very easy,No,Yes,Yes,Don't know,No
+271,Yes,Yes,No,Don't know,Don't know,Yes,Don't know,No,Some of them,Yes,Yes,No
+272,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+274,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,No,No,No
+276,No,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+278,Yes,Yes,Yes,Yes,Don't know,Don't know,Very easy,Maybe,Some of them,Some of them,Yes,No
+279,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+282,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+283,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,Some of them,Don't know,No
+286,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+287,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,Some of them,Some of them,Yes,No
+288,Yes,No,Yes,No,No,Don't know,Don't know,No,Some of them,No,Don't know,Yes
+289,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Don't know,No
+291,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+292,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,Some of them,Some of them,Don't know,No
+293,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+294,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Yes,Some of them,Don't know,No
+295,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+296,Yes,Yes,Yes,Yes,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No
+297,No,Yes,No,Don't know,Yes,Don't know,Don't know,No,Some of them,Yes,Yes,No
+298,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,Don't know,No
+299,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+300,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Some of them,Yes,No
+301,Yes,Yes,Not sure,Don't know,Don't know,Yes,Somewhat easy,No,Yes,Yes,Yes,No
+302,No,Yes,Not sure,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+303,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Yes,Yes,No
+304,Yes,Yes,Yes,Don't know,Yes,Don't know,Somewhat easy,No,Some of them,Yes,Yes,No
+306,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,Don't know,No
+307,No,No,No,No,No,Don't know,Don't know,No,Some of them,Some of them,Don't know,Yes
+308,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+309,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+311,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+312,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+313,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No
+314,No,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No
+315,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+316,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+317,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+318,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,Yes
+320,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+321,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,No,No
+322,No,Yes,Not sure,Don't know,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+323,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,Some of them,No,Don't know,No
+324,Yes,Yes,No,Don't know,No,Don't know,Don't know,Maybe,No,No,Don't know,No
+325,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+326,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Don't know,No
+327,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,Yes,Yes,Yes,No
+328,No,No,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+330,No,Yes,Not sure,Yes,Yes,Yes,Very easy,No,Some of them,Some of them,Yes,No
+332,No,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No
+335,No,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,Some of them,Some of them,Don't know,No
+337,No,Yes,Not sure,Don't know,No,Don't know,Very easy,Maybe,Some of them,Some of them,Don't know,No
+338,No,Yes,Yes,Don't know,Don't know,Yes,Don't know,Yes,No,No,Don't know,No
+339,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+340,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Yes,Yes,No,No
+341,No,No,Yes,No,No,Don't know,Very difficult,Yes,Some of them,Some of them,No,No
+342,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,No,No,No,No
+343,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+345,Yes,Yes,Yes,No,No,Yes,Don't know,No,Some of them,Yes,Don't know,No
+346,Yes,Don't know,No,No,No,Don't know,Don't know,No,Yes,Yes,Don't know,No
+347,Yes,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Yes,Don't know,No
+348,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+349,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+351,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,Yes,No
+353,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+355,Yes,No,Yes,No,Don't know,Yes,Don't know,No,Some of them,No,No,No
+356,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+357,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,No,No,Don't know,No
+358,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,Some of them,Some of them,Don't know,No
+359,No,No,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes,No
+360,No,No,No,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,Don't know,No
+362,Yes,No,No,No,Don't know,No,Don't know,Maybe,Some of them,Yes,No,No
+363,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Yes,No
+364,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,No,No
+365,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,Maybe,No,No,No,No
+366,No,Yes,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Don't know,No
+367,Yes,No,Yes,No,No,Yes,Very easy,No,Some of them,Some of them,Don't know,No
+368,Yes,Yes,No,No,Don't know,Yes,Don't know,No,Yes,Yes,Don't know,No
+370,No,Yes,No,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No
+371,Yes,Yes,No,Yes,Yes,Don't know,Somewhat difficult,Maybe,Yes,Some of them,No,Yes
+372,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes,No
+373,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+374,Yes,Don't know,Not sure,Don't know,No,Don't know,Somewhat easy,Yes,Some of them,No,Don't know,No
+375,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+376,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,No,No,No
+377,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Yes,No
+378,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Some of them,Some of them,Yes,No
+379,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,Don't know,No
+381,Yes,Yes,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Yes,No
+382,Yes,Yes,No,No,No,Don't know,Don't know,No,Yes,Yes,Don't know,No
+384,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Some of them,No,No,No
+385,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Yes,Don't know,No
+387,Yes,Yes,Yes,No,No,Don't know,Very difficult,Yes,Some of them,No,No,No
+388,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Some of them,No,Don't know,No
+391,Yes,Yes,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,No,Don't know,No
+392,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,Yes,Some of them,No,Don't know,No
+394,No,No,No,No,No,No,Very difficult,Yes,No,No,No,Yes
+395,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+398,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+400,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Yes,No,No
+401,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,No,No
+402,No,Don't know,No,No,Don't know,Don't know,Don't know,No,Some of them,Yes,No,No
+403,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Some of them,Some of them,No,Yes
+405,No,Yes,Yes,No,Yes,Yes,Very easy,No,Some of them,Yes,No,No
+406,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Yes,Some of them,Yes,No
+407,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,Some of them,No,Yes,No
+410,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Yes,No,No,No,No
+411,Yes,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,No,No,No,No
+412,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,Yes
+414,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,Some of them,Some of them,Yes,No
+415,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Yes,Don't know,No
+419,Yes,No,Yes,No,Don't know,Don't know,Don't know,Yes,No,No,No,Yes
+424,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+425,No,Don't know,Not sure,No,Yes,Yes,Don't know,No,Some of them,Some of them,Yes,No
+426,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Some of them,Some of them,No,Yes
+427,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+428,No,Yes,No,No,No,Don't know,Don't know,No,Yes,No,Don't know,No
+429,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Yes,No
+431,Yes,No,No,No,No,Don't know,Very easy,Yes,No,Some of them,Yes,No
+432,Yes,No,No,No,No,Yes,Somewhat easy,Yes,Some of them,Some of them,Don't know,No
+433,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Yes,Yes,Don't know,No
+434,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,Don't know,No
+435,No,Don't know,No,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+436,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,Yes
+438,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+439,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes,No
+441,No,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,Don't know,No
+442,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,Yes,Yes
+443,No,Yes,No,Don't know,No,Don't know,Don't know,No,Some of them,Yes,Yes,No
+445,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,No,Yes
+446,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,Yes
+447,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Some of them,Some of them,No,Yes
+448,Yes,Yes,Yes,Yes,No,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+450,Yes,Yes,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes,No
+451,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,No,Some of them,Yes,No
+452,Yes,Yes,Yes,Yes,No,Don't know,Very difficult,Yes,Some of them,No,No,Yes
+453,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+454,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+455,No,Don't know,No,No,No,Yes,Somewhat easy,No,Yes,Yes,Don't know,No
+459,No,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+461,No,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,Some of them,Yes,Yes,No
+462,No,No,Yes,No,No,Don't know,Somewhat easy,Yes,Some of them,No,Don't know,No
+463,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Some of them,No,No,No
+464,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Yes,Some of them,Yes,Yes,No
+466,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+470,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+471,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+472,No,Don't know,No,No,No,Don't know,Very difficult,Yes,No,No,No,No
+474,No,Don't know,No,No,No,Don't know,Very difficult,Maybe,Some of them,Yes,Don't know,No
+475,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,No,Don't know,No
+479,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+480,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Yes,Yes,Yes,No
+481,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Don't know,No
+483,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+484,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+486,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+487,Yes,No,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes,No
+490,No,Yes,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,No
+491,No,Don't know,Not sure,No,No,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+493,Yes,No,No,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,Yes
+494,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+495,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,Yes
+496,Yes,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Some of them,No,No,Yes
+497,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,Some of them,No,No,Yes
+500,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No
+504,Yes,No,Yes,No,No,Don't know,Don't know,Yes,No,No,No,No
+505,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,No,Yes,No
+506,No,Yes,No,Yes,No,Don't know,Very difficult,Maybe,Yes,Yes,No,No
+508,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,Some of them,Yes,Yes,No
+509,No,Yes,Not sure,Yes,Don't know,Yes,Don't know,No,Some of them,Yes,Yes,No
+510,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,Some of them,Some of them,Don't know,No
+511,No,No,No,No,No,No,Somewhat easy,Maybe,Some of them,No,Yes,No
+512,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+513,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes,No
+514,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,No,No,No,No
+515,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+516,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Yes,No
+517,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Yes,Yes,No,Yes
+520,No,Yes,Yes,Don't know,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Yes,No
+521,No,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,Maybe,Some of them,Some of them,Don't know,No
+522,No,No,No,No,No,Don't know,Don't know,Maybe,No,No,No,No
+524,Yes,Don't know,Yes,Don't know,No,Yes,Somewhat difficult,Maybe,Some of them,Yes,Yes,No
+525,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Some of them,Yes,No
+528,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No
+536,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Some of them,Yes,No,No
+537,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No
+539,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,No,Some of them,Some of them,No,Yes
+540,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No
+541,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes,No
+543,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,No,Yes
+547,Yes,Yes,No,No,Yes,Don't know,Somewhat difficult,Yes,Some of them,Yes,No,No
+548,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Yes,No
+550,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+557,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+559,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+560,No,No,No,No,No,Don't know,Very easy,Maybe,Some of them,No,Yes,No
+561,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,Some of them,No,Yes,No
+563,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+565,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,Some of them,No,No,No
+566,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,Yes,Yes,Yes,Don't know,No
+567,Yes,Yes,No,No,Yes,Don't know,Somewhat easy,No,Yes,Some of them,Don't know,No
+568,No,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No
+569,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+570,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Yes,No
+571,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Yes,Don't know,No
+572,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,Some of them,Yes,Yes,No
+573,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,Yes,Yes,No,Yes
+574,No,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No
+575,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+576,No,Don't know,No,Don't know,No,Don't know,Don't know,No,Yes,Yes,Don't know,No
+577,No,Don't know,Not sure,No,No,Yes,Very easy,No,Some of them,Yes,Yes,No
+579,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+580,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,Yes
+581,No,Don't know,No,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+583,No,No,Yes,No,No,Yes,Very easy,No,Some of them,Yes,Yes,No
+585,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,Yes,Yes,Don't know,No
+587,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,Some of them,Some of them,Don't know,Yes
+588,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Yes,Yes,Don't know,No
+589,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,Yes,Yes,Don't know,No
+590,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,Yes
+591,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,Some of them,Some of them,Don't know,No
+593,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,No
+594,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Yes,No
+595,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Yes,No
+596,Yes,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,No,No,No,Yes
+597,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+598,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Yes,Yes,Yes,No
+599,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,Yes,Some of them,No,No,Yes
+600,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+601,No,No,No,Yes,Yes,Don't know,Very easy,No,Yes,Yes,Yes,No
+602,Yes,Yes,Not sure,No,No,Yes,Somewhat difficult,Yes,No,No,No,No
+603,Yes,No,Yes,No,Yes,Yes,Somewhat difficult,No,Yes,Yes,Yes,No
+604,No,Yes,Not sure,Don't know,Don't know,Yes,Don't know,Maybe,No,No,No,No
+605,No,No,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No
+606,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+607,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,No,No,No
+608,No,Don't know,No,No,No,Don't know,Don't know,No,Yes,Yes,Yes,No
+610,Yes,No,Yes,No,No,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+611,No,No,Yes,No,No,Don't know,Very easy,No,Some of them,Yes,Yes,No
+612,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Some of them,No,No,No
+614,No,Yes,No,No,No,Don't know,Very easy,Yes,Some of them,No,Don't know,No
+615,Yes,No,Not sure,No,Yes,Don't know,Somewhat difficult,No,Yes,Yes,Yes,No
+616,No,Yes,No,Yes,Don't know,Don't know,Don't know,No,Some of them,Some of them,Yes,No
+617,Yes,Yes,Yes,No,No,Yes,Very difficult,Yes,Some of them,No,No,No
+622,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,Some of them,Some of them,Don't know,No
+623,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Don't know,No
+624,Yes,Don't know,No,No,No,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+625,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No
+627,Yes,No,Yes,No,No,Yes,Somewhat easy,No,Some of them,Some of them,No,No
+629,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,Yes
+631,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+633,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+638,No,Yes,Not sure,No,No,Yes,Very easy,No,Some of them,Yes,Yes,No
+643,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,No,No,Don't know,Yes
+650,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+654,Yes,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,No,Yes,No
+662,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+671,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+675,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+677,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,Don't know,No
+679,Yes,Yes,Not sure,No,Yes,Don't know,Very easy,No,Yes,Yes,Yes,No
+681,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+682,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No
+686,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+687,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+688,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+697,No,No,Yes,No,No,Don't know,Very difficult,Yes,No,No,No,No
+699,No,No,No,No,Don't know,Don't know,Somewhat difficult,Maybe,Some of them,No,Don't know,No
+700,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+701,Yes,No,Yes,Yes,Yes,No,Very difficult,No,Yes,Yes,Yes,Yes
+702,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,Yes,Yes,Don't know,No
+703,Yes,Yes,Yes,Yes,No,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+704,Yes,Yes,Not sure,No,Yes,Don't know,Somewhat easy,Yes,No,No,No,No
+706,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Some of them,No,No,No
+707,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,Yes,Yes,Don't know,No
+708,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+709,Yes,Yes,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes,No
+712,No,Don't know,No,No,Don't know,Don't know,Very easy,No,Some of them,Yes,Don't know,No
+713,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,Some of them,Some of them,No,No
+714,Yes,Yes,Yes,Don't know,Don't know,Don't know,Very difficult,Yes,Some of them,No,No,No
+717,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,Yes,Yes,Yes,No
+719,No,Yes,Not sure,No,Don't know,Don't know,Don't know,No,Yes,Yes,Don't know,No
+723,Yes,Don't know,No,Yes,Don't know,Don't know,Don't know,Yes,Some of them,Yes,No,No
+724,Yes,No,Yes,No,No,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+728,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Yes,Yes,No,No
+732,No,Don't know,Not sure,No,No,Don't know,Very easy,No,Yes,Yes,Don't know,No
+733,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes,Yes,Don't know,No
+734,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+736,No,Yes,Yes,Don't know,Yes,Yes,Don't know,No,Some of them,Yes,Don't know,No
+739,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+743,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Yes,Don't know,No
+744,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Some of them,Some of them,Don't know,No
+745,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+748,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+752,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+754,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+755,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+756,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+757,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat difficult,Yes,No,No,No,No
+759,Yes,No,Yes,No,No,No,Don't know,Yes,Some of them,Some of them,No,Yes
+761,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Yes,Some of them,Yes,No
+764,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Somewhat easy,Yes,Some of them,No,No,No
+766,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,No,No,No
+768,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No
+771,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Yes,Yes,Yes,No
+776,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No
+778,No,Don't know,Not sure,No,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+781,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,Yes,Yes,Don't know,No
+783,No,Don't know,No,No,No,Don't know,Don't know,No,Yes,Yes,Don't know,No
+784,No,Don't know,No,No,No,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+785,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Some of them,No,Yes
+787,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,Some of them,Some of them,Don't know,No
+791,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+792,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,Some of them,Some of them,No,Yes
+793,Yes,Yes,No,No,No,Yes,Very difficult,Yes,No,Some of them,No,Yes
+794,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,Some of them,Some of them,No,Yes
+795,No,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,No,Yes
+796,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Some of them,Yes,Don't know,No
+799,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,Some of them,No,Yes,No
+800,No,Yes,Yes,Yes,No,Yes,Very easy,Yes,Yes,Yes,Don't know,No
+801,Yes,No,Yes,No,No,Don't know,Very easy,No,Some of them,Yes,Yes,No
+802,No,Yes,No,No,No,Don't know,Don't know,Yes,No,No,Don't know,No
+803,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,No,Yes,No
+805,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Some of them,Some of them,No,Yes
+806,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,Don't know,Yes
+807,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No
+808,No,Don't know,Not sure,No,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No
+809,No,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,No
+812,Yes,No,No,No,No,Yes,Very difficult,Yes,Some of them,Some of them,No,Yes
+813,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+815,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+816,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Some of them,Yes,Don't know,No
+817,Yes,No,Yes,No,No,No,Very easy,Yes,Some of them,No,Yes,No
+820,Yes,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+822,No,No,Yes,No,No,No,Very difficult,Yes,No,No,Don't know,No
+823,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Yes,No
+824,No,Yes,No,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+825,No,Don't know,No,No,No,No,Very difficult,Yes,No,Some of them,No,Yes
+826,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Yes,No
+827,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,Some of them,No,Don't know,No
+829,Yes,No,Yes,No,No,Yes,Don't know,No,Some of them,Yes,Yes,No
+830,No,Yes,Yes,No,Yes,Yes,Very easy,Maybe,Some of them,No,Yes,No
+831,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+833,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,No,Yes,Yes,Don't know,No
+834,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,Don't know,No
+836,Yes,Yes,Yes,No,No,Yes,Very easy,No,Some of them,Yes,No,Yes
+837,No,Don't know,No,No,Don't know,Don't know,Very difficult,Yes,No,No,No,No
+839,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,Some of them,Yes,No,No
+840,Yes,Don't know,No,No,Don't know,Don't know,Very difficult,Maybe,Some of them,Yes,Don't know,No
+842,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,No,Yes,Yes,Don't know,No
+843,No,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+844,No,Yes,No,No,No,Yes,Somewhat difficult,No,Some of them,Some of them,Don't know,No
+846,Yes,Don't know,No,Yes,Don't know,Yes,Don't know,Maybe,Some of them,No,Don't know,No
+848,Yes,No,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes,No
+849,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Some of them,Some of them,Don't know,No
+850,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,Don't know,No
+851,No,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Some of them,Don't know,No
+854,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+855,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+856,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes,No
+857,No,Don't know,Not sure,Don't know,No,Yes,Somewhat easy,No,Some of them,Yes,Don't know,No
+858,No,No,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+862,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+863,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Some of them,Yes,No,No
+864,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Yes,No
+866,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Don't know,No
+867,No,No,Yes,No,No,Don't know,Very difficult,Maybe,Some of them,Yes,No,No
+870,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes,No
+873,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+874,No,Yes,Yes,No,No,Yes,Very easy,Maybe,No,No,No,No
+875,Yes,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,No,No,Don't know,No
+876,No,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,No
+877,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+879,Yes,Yes,Yes,No,Don't know,Yes,Very easy,Maybe,No,No,Don't know,No
+880,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+881,No,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,Some of them,Yes,Yes,No
+882,No,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Yes,Yes
+883,No,Yes,No,No,Don't know,Don't know,Somewhat difficult,No,Some of them,Yes,Yes,No
+884,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+885,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,Don't know,No
+889,No,Yes,No,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,Yes
+890,No,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+891,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Some of them,No,Don't know,No
+892,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+893,No,Yes,No,Don't know,Yes,Don't know,Very difficult,Yes,Some of them,No,No,No
+894,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+895,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,Some of them,Yes,Don't know,No
+896,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+898,No,No,Yes,No,No,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+899,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,Some of them,Yes,No,No
+900,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No
+902,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Some of them,Yes,Yes
+904,No,No,Yes,No,No,Yes,Somewhat difficult,No,Some of them,Some of them,Don't know,No
+905,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,No,No,No,Yes
+906,No,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,Don't know,No
+907,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,No,No,No,No
+908,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+909,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Yes,Yes,Yes,Yes
+911,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+913,Yes,Don't know,Yes,No,Yes,Don't know,Somewhat easy,No,Yes,Yes,Don't know,No
+916,No,No,Yes,No,No,Yes,Somewhat easy,Maybe,Some of them,Some of them,Don't know,No
+918,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No
+919,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+920,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,Some of them,Yes,Don't know,No
+921,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Some of them,Some of them,No,No
+922,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+924,No,Yes,No,Don't know,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No
+925,No,Yes,No,Yes,No,Don't know,Don't know,Yes,No,No,Don't know,No
+926,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No
+927,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,Some of them,Some of them,Yes,No
+928,No,Yes,No,No,No,Yes,Don't know,No,Yes,Yes,Don't know,No
+929,No,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,Some of them,Yes,Don't know,No
+930,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Yes,Yes,No
+931,No,Don't know,No,No,Yes,Don't know,Very easy,No,Some of them,Yes,Yes,No
+932,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Some of them,No,No,Yes
+933,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No
+934,Yes,Don't know,Not sure,No,Yes,Yes,Very difficult,Maybe,Some of them,Some of them,No,Yes
+936,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+938,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,Don't know,No
+939,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Yes,No,No
+940,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+941,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,Some of them,Some of them,Don't know,Yes
+942,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,Maybe,Some of them,Yes,Yes,No
+943,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+944,Yes,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,No,No
+945,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,Some of them,No,No,No
+946,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Some of them,Yes,No
+947,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+948,Yes,Yes,Yes,Don't know,Yes,Don't know,Very difficult,Maybe,Some of them,Some of them,Don't know,No
+949,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,Maybe,Some of them,Some of them,Don't know,No
+953,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+954,No,No,No,No,No,Yes,Don't know,Maybe,Some of them,Yes,Don't know,No
+956,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No
+958,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,No,No
+970,No,No,Not sure,No,No,Don't know,Very difficult,Yes,No,No,No,Yes
+972,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,Yes,Yes,Don't know,No
+973,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes,Yes,Yes,No
+976,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,Yes
+980,Yes,No,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+983,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+988,No,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,No,No,No,Don't know,No
+992,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,Some of them,No,Yes,No
+996,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,Some of them,Yes,Don't know,No
+997,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+1000,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,No,Yes,Yes,Don't know,No
+1001,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+1002,Yes,Yes,Yes,No,No,Yes,Very easy,No,Yes,Yes,Don't know,No
+1003,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Don't know,Yes
+1006,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,Don't know,No
+1007,No,Don't know,No,No,No,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+1008,Yes,No,Yes,No,No,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+1009,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,No,No,Don't know,No
+1010,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Yes,Don't know,No
+1011,No,No,Yes,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No
+1012,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Yes,Some of them,Some of them,No,Yes
+1013,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+1014,No,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,Some of them,Some of them,Yes,No
+1016,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+1017,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Some of them,Some of them,No,Yes
+1018,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+1019,No,Don't know,No,No,No,Don't know,Somewhat easy,Yes,Some of them,Some of them,Don't know,Yes
+1021,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,Yes
+1022,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,Yes,Yes,Yes,No
+1024,No,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,Some of them,No,No
+1025,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+1026,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Yes,No
+1027,No,Don't know,Not sure,No,No,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+1028,No,Yes,Yes,Yes,No,Don't know,Don't know,Yes,No,No,Don't know,No
+1029,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+1030,No,Don't know,Not sure,No,No,Don't know,Don't know,No,Some of them,Yes,Yes,No
+1031,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,Yes,Yes,Yes,No
+1032,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,No,No
+1033,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,Yes
+1034,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,Yes
+1037,No,Don't know,No,Don't know,Don't know,Yes,Don't know,Yes,Some of them,No,No,No
+1038,No,No,Not sure,No,No,Don't know,Very easy,No,Some of them,Yes,Yes,No
+1039,No,No,No,No,No,Don't know,Don't know,No,No,No,Don't know,No
+1040,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,Some of them,Some of them,No,No
+1041,No,Yes,No,Don't know,Yes,Yes,Don't know,No,Some of them,Yes,Yes,No
+1042,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,No,Don't know,No
+1043,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,No,Don't know,No
+1048,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,Some of them,Some of them,Yes,Yes
+1050,Yes,Yes,Yes,No,No,Don't know,Don't know,No,Some of them,Yes,No,Yes
+1051,No,No,No,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No
+1053,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,Some of them,Some of them,Don't know,No
+1054,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+1055,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,Some of them,Yes,Yes,No
+1056,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+1057,No,Don't know,No,No,No,No,Very easy,Maybe,Some of them,Yes,Yes,No
+1059,Yes,Yes,Yes,Don't know,Yes,Yes,Very easy,No,Some of them,Some of them,Don't know,No
+1060,Yes,Yes,No,No,No,Don't know,Somewhat easy,No,Some of them,Yes,Don't know,No
+1061,Yes,Don't know,Not sure,No,No,Yes,Very difficult,Maybe,Some of them,No,No,No
+1062,No,Don't know,No,No,No,Yes,Somewhat difficult,No,No,No,Don't know,No
+1063,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,Don't know,No
+1066,No,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Don't know,No
+1067,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Yes,Don't know,No
+1068,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,Don't know,No
+1070,Yes,No,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No
+1071,No,Yes,Not sure,No,Yes,Don't know,Don't know,Maybe,No,No,Don't know,No
+1072,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,No,Yes,Yes
+1073,No,Don't know,No,No,No,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+1074,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,No,No
+1075,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,No,No,No,Yes
+1076,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+1077,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Yes,Some of them,No,Yes
+1078,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+1080,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Yes,Yes,No,No
+1082,Yes,Yes,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No
+1087,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Yes,Some of them,No,No,No
+1088,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,No,Some of them,Yes,Don't know,No
+1089,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No
+1090,No,No,Yes,No,No,Yes,Very easy,No,Some of them,Some of them,Yes,No
+1091,No,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Some of them,No,No
+1092,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Yes,Yes,No,No
+1093,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,No,No,Yes,No
+1094,Yes,Yes,No,No,Yes,Yes,Very easy,No,No,Yes,Yes,No
+1095,Yes,No,Yes,No,No,No,Very difficult,No,No,No,No,Yes
+1096,Yes,Don't know,No,No,No,Don't know,Very easy,No,Yes,Yes,Yes,No
+1097,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,Don't know,Yes
+1098,No,Don't know,Not sure,Yes,Don't know,Yes,Somewhat easy,No,Some of them,Yes,Yes,No
+1099,No,Don't know,No,No,Don't know,Don't know,Don't know,No,Yes,Some of them,Yes,No
+1100,No,Yes,Not sure,No,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Don't know,No
+1101,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+1103,No,Don't know,No,No,No,Don't know,Somewhat easy,No,Yes,Some of them,Yes,No
+1104,No,Yes,No,No,No,Don't know,Don't know,Yes,Some of them,No,Don't know,No
+1105,Yes,No,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Don't know,No
+1108,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+1113,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,Yes,Yes,Don't know,No
+1114,No,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Don't know,No
+1117,Yes,Don't know,Yes,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Don't know,No
+1118,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Yes,Don't know,No
+1119,No,No,Yes,No,No,Don't know,Don't know,Yes,No,No,Don't know,No
+1123,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+1124,No,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,No,Yes,No
+1126,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Some of them,Don't know,No
+1127,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,Yes,Yes
+1129,No,Yes,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No
+1130,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Some of them,Some of them,No,No
+1132,Yes,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Some of them,No,Don't know,No
+1145,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,Don't know,No
+1148,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Don't know,No
+1149,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Don't know,No
+1150,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Some of them,Don't know,Yes
+1154,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,Some of them,Some of them,Don't know,No
+1158,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,Don't know,No
+1160,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Some of them,Some of them,Don't know,No
+1163,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Don't know,No
+1164,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,Some of them,No,No
+1165,No,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,Yes,Yes,Don't know,No
+1166,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,No,Don't know,No
+1169,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No
+1170,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No
+1171,No,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,Don't know,No
+1172,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes,Yes
+1175,No,Don't know,No,No,No,Don't know,Somewhat difficult,No,Some of them,Yes,Don't know,Yes
+1176,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,No,No
+1177,No,No,No,No,Don't know,Don't know,Don't know,No,Some of them,Yes,No,Yes
+1180,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,No,No,No
+1181,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,No,No,Yes
+1182,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,Maybe,Some of them,Yes,Don't know,Yes
+1183,Yes,No,No,No,No,Yes,Don't know,Maybe,Some of them,Some of them,Yes,No
+1184,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Some of them,Some of them,Don't know,No
+1185,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Yes,No
+1186,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Don't know,No
+1187,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,Don't know,No
+1189,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,No,Yes,No
+1190,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,Some of them,Some of them,Don't know,No
+1198,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Some of them,No,Don't know,No
+1201,Yes,Yes,No,No,No,Don't know,Somewhat easy,Yes,Some of them,No,No,Yes
+1207,Yes,No,Yes,No,No,No,Very easy,Maybe,Some of them,Yes,No,No
+1214,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,No,Don't know,No
+1219,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,Don't know,No
+1220,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Some of them,No,No,No
+1221,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+1228,Yes,Don't know,Yes,No,No,Don't know,Somewhat easy,Yes,Some of them,Some of them,Don't know,No
+1236,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Don't know,No
+1238,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Yes,No,Yes
+1243,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,Some of them,Yes,Don't know,No
+1246,No,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Don't know,No
+1248,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,No,Don't know,No
+1249,Yes,Yes,Yes,Don't know,No,Yes,Very easy,No,Yes,Yes,Yes,No
+1250,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Yes,No
+1252,Yes,Yes,Yes,Yes,No,Yes,Don't know,Yes,Some of them,No,No,No
+1253,No,Don't know,No,Yes,Yes,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Don't know,No
+1255,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,Some of them,Yes,Yes,No
+1256,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No
+1257,No,No,Yes,No,No,Don't know,Don't know,Yes,No,No,No,No
+1258,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Some of them,No,Don't know,No
