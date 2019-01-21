@@ -1,6 +1,21 @@
 # Tech Employees Project
 What influences tech employees to seek treatment (or not) for mental health issues.
 
+## Key to File Names
+(Rows refers to the rows in the original dataset.)
+
+US: Only has rows from US, no rows from other countries
+
+ALL: Has all the original rows
+
+NOT-US: All non US rows
+
+COMPANY: Reduced features, only features that a company could influence
+
+ML: Formatted for machine learning (encoded)
+
+PLOT: Formatted for plots (not encoded)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
