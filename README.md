@@ -1,5 +1,5 @@
 # Tech Employees Project
-What influences tech employees to seek treatment (or not) for mental health issues.
+Using the survey data here https://www.kaggle.com/osmi/mental-health-in-tech-survey, the factors that a company can influence (via money, training, etc.) were used to train models.  The models were then used to determine which of these factors had a positive or negative affect on an employee's likelyhood to seek treatment for mental health issues or not.  The company could then boost factors that had a positive effect with the goal of retaining employees.
 
 ## Key to File Names
 (Rows refers to the rows in the original dataset.)
@@ -18,36 +18,17 @@ PLOT: Formatted for plots (not encoded)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To run the app and test the model(s), 
 
 ### Prerequisites
 
 Python 3
+
 Jupyter Notebook
+
 Flask
-```
-Give examples
-```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
+## Running the app
 
 Explain how to run the automated tests for this system
 
