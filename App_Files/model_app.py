@@ -6,12 +6,12 @@ from numpy import array
 
 app = flask.Flask(__name__)
 
-#getting our trained model from a file we created earlier
+# Getting our trained model from a file we created earlier
 svm_model = pickle.load(open("Models/svm_model.pkl","rb"))
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    # grabbing a set of job features from the request's body
+    # Grabbing a set of job features from the request's body
     new_features1 = []
     new_features2 = []
     feature_array = request.form
