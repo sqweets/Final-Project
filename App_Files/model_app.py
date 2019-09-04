@@ -8,7 +8,6 @@ app = flask.Flask(__name__)
 
 #getting our trained model from a file we created earlier
 svm_model = pickle.load(open("Models/svm_model.pkl","rb"))
-#dtree_model = pickle.load(open("Models/dtree_model.pkl","rb"))
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -38,15 +37,10 @@ def predict():
     sample = array(data)
     print(sample)
 
-    # Our model predicts if treatment is saught (sp?)
+    # Our model predicts if treatment is sought
     prediction_svm = svm_model.predict(sample)
-#    prediction_dtree = dtree_model.predict(sample)
-    
-    # Preparing a response object and storing the model's predictions
-#    response = {}
-#    response['predictions'] = prediction_svm
 
-    #sending our response object back as json
+    # Sending our response object back as json
     return flask.jsonify(prediction_svm.tolist())
 
 if __name__ == '__main__':
